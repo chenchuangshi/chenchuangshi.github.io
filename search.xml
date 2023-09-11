@@ -55,9 +55,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/myself/index.html"/>
-      <url>/myself/index.html</url>
+      <title>留言板</title>
+      <link href="/messageboard/index.html"/>
+      <url>/messageboard/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,9 +77,9 @@
     
     
     <entry>
-      <title>日志</title>
-      <link href="/timeline/index.html"/>
-      <url>/timeline/index.html</url>
+      <title>关于</title>
+      <link href="/myself/index.html"/>
+      <url>/myself/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -88,9 +88,9 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/messageboard/index.html"/>
-      <url>/messageboard/index.html</url>
+      <title>日志</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
