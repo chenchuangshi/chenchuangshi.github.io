@@ -66,9 +66,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>关于</title>
+      <link href="/myself/index.html"/>
+      <url>/myself/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,9 +77,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/myself/index.html"/>
-      <url>/myself/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
