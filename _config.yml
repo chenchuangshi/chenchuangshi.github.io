@@ -106,11 +106,20 @@ deploy:
   repo: git@github.com:chenchuangshi/chenchuangshi.github.io.git
   branch: master
 
-algolia:
-  applicationID: 'B1NKY501CK'
-  apiKey: 'e5e1080115a2dfea6c85e836b33f0591'
-  indexName: 'hexo'
+#algolia search
+# algolia:
+#   applicationID: 'B1NKY501CK'
+#   apiKey: 'e5e1080115a2dfea6c85e836b33f0591'
+#   indexName: 'hexo'
 
+# search:
+#   path: search.xml
+#   field: all
+
+#local search
 search:
   path: search.xml
-  field: all
+  field: post
+  format: html
+  limit: 10000
+
